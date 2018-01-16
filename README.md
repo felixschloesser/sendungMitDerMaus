@@ -3,4 +3,4 @@ Spiel, bei dem eine Maus ein Seil hochklettert und herunterfallenden Gegenständ
 
 run with
 
-  make && ./demo
+	make && ./demo
