@@ -15,7 +15,6 @@ int main(int argc, char *argv[]) {
  curs_set(FALSE); // don't display a cursor
 
 
-
  while(1) {
    // global var "stdscr" is created by the call to "intitscr()"
    getmaxyx(stdscr, max_y, max_x);
